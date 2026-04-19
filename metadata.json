@@ -1,0 +1,8 @@
+{
+  "name": "Shehzada Services",
+  "description": "Portfolio website for Shehzada Services",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
